@@ -1,7 +1,10 @@
 # Ayanami Discord Bot –– simple and functional Discord guild manager.
 
-### Version 0.9.0
-
+#### Version 0.9.0
+#### You can test in by this link:
+```
+https://discord.com/oauth2/authorize?client_id=1087007200096047224
+```
 ## Developed with:
 ```
 discordAPI

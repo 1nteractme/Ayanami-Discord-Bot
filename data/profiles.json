@@ -1,0 +1,32 @@
+{
+  "677954425679118345": {
+    "gender": "Женский",
+    "games": [
+      "League of Legends"
+    ],
+    "custom_role": "VIP",
+    "name": "Владикс",
+    "age": 15,
+    "custom_role_request": "fdsdfsdfdfs",
+    "servers": [
+      "Europe"
+    ]
+  },
+  "1087007200096047224": {
+    "gender": null,
+    "age": null,
+    "games": [],
+    "servers": []
+  },
+  "1104844139750768720": {
+    "gender": "Женский",
+    "age": 19,
+    "games": [
+      "Minecraft"
+    ],
+    "servers": [
+      "Europe"
+    ],
+    "custom_role_request": "Любимая"
+  }
+}

@@ -1,4 +1,4 @@
-# Ayanami Discord Bot –– your discord guild manager.
+# Ayanami Discord Bot –– simple and functional Discord guild manager.
 
 ### Version 0.9.0
 
